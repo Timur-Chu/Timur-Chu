@@ -158,8 +158,10 @@ Here are some ideas to get you started:
 </table>
 </details>
 
+## Временные ряды
+
 <details open>
-  <summary>Временные ряды</summary>
+  <summary>Список проектов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -199,7 +201,7 @@ Here are some ideas to get you started:
 </tr>
   
   <tr>
-  <td><a href = "https://github.com/Stuksus/Churn-prediction">Прогнозирование оттока клиентов банка</a></td>
+  <td><a href = "https://github.com/Timur-Chu/churn_forecast">Прогнозирование оттока клиентов банка</a></td>
   <td>Яндекс.Практикум</td>
   <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
   <td>Завершен</td>
@@ -210,8 +212,9 @@ Here are some ideas to get you started:
 </details>
 
 <!-- NLP-->
+## Анализ текстов (NLP)
 <details open>
-  <summary>Анализ текстов (NLP)</summary>
+  <summary>Список проектов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
