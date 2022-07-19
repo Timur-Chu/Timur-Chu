@@ -135,9 +135,9 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/Stuksus/Profit-prediction-upon-oil">Прогнозирование прибыли от нефтяных скважин</a></td>
+  <td><a href = "https://github.com/Timur-Chu/oil_production_profit_prediction">Прогнозирование прибыли от нефтяных скважин</a></td>
   <td>Яндекс.Практикум</td>
-  <td>Нужно решить, где бурить новую нефтяную скважину для получения наибольшей прибыли</td>
+  <td>Необходимо определеить локацию для бурения новой нефтяной скважины с целью получения наибольшей прибыли</td>
   <td>Завершен</td>
 </tr>
   
