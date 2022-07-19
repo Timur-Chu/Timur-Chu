@@ -162,12 +162,7 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr>
  
-<tr>
-  <td><a href = "https://github.com/Stuksus/HW3_ML1_Gradient_Descent">Построение линейной регресси на разных градиентных спусках</a></td>
-  <td>Машинное обучение 1</td>
-  <td>В данном задании необходимо реализовать обучение линейной регрессии с помощью различных вариантов градиентного спуска.</td>
-  <td>Завершен</td>
-</tr> 
+
   
 </table>
 </details>
@@ -219,12 +214,7 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr>
 
-<tr>
-  <td><a href = "https://github.com/Stuksus/LogisticRegression">LogisticRegression on PyTorch</a></td>
-  <td>МФТИ ФПМИ</td>
-  <td>Реализация LogisticRegression на PyTorch</td>
-  <td>Завершен</td>
-</tr>
+
  
 <tr>
   <td><a href = "https://github.com/Stuksus/HW5_ML1_Decision_Tree">Решающие деревья в задачах классификации</a></td>
@@ -233,15 +223,7 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr> 
 
-<tr>
-  <td><a href = "https://github.com/Stuksus/HW4_ML1_Linear_Classification">Исследование Логистической регрессии; Метода опорных векторов; Калиброки вероятности</a></td>
-  <td>Машинное обучение 1</td>
-  <td>Ознакомимся с тем, что происходит "внутри" метода опорных векторов и логистической регрессии;
-Познакомимся с калибровкой вероятности;
-Изучим методы трансформации переменных и методы отбора признаков;
-Попробуем оценить экономический эффект модели;</td>
-  <td>Завершен</td>
-</tr> 
+
  
 </table>
 </details>
