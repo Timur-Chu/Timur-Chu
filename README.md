@@ -149,9 +149,9 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/Stuksus/Gradient-boosting">Прогнозирование цен на автомобили</a></td>
+  <td><a href = "https://github.com/Timur-Chu/car_price_forecast">Прогнозирование цен на автомобили</a></td>
   <td>Яндекс.Практикум</td>
-  <td>На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили</td>
+  <td>Построение модели для прогноза цен автомобилей</td>
   <td>Завершен</td>
 </tr>
   
