@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Мое резюме:
- - [Резюме](https://github.com/Timur-Chu/Timur-Chu/blob/main/resume.pdf)
 
-</table>
-
-# Сертификаты:
+# Сертификат:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Timur-Chu/Timur-Chu/blob/main/certificate.pdf)
  
 # Курсы:
